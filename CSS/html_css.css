@@ -1,0 +1,21 @@
+body{
+    background: url("../images/html_css.jpg")
+    no-repeat center center fixed;
+    background-size: cover;
+}
+h1{
+    font-family: "Roboto", sans-serif;
+    color:black;
+    text-align: center;
+    margin:0 auto;
+    border: 3px solid  red ;
+    padding: 20px;
+    width:300px;
+    margin-top: 100px;
+}
+i{
+    color: red;
+
+}
+j{
+    color: black;}
