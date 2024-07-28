@@ -1,0 +1,39 @@
+a{
+    font-size: 30px;
+}
+/* 
+a:link{
+    color:blue;
+}
+
+a:visited{
+ color:aquamarine;
+
+}
+
+a:hover{
+    color:blueviolet;
+
+}
+
+a:active{
+    color:brown;
+} */
+
+a:link,a:visited{
+    background-color: pink;
+    color: white;
+    text-align: center;
+    padding: 12px 20px;
+    display:inline-block;
+}
+
+a:hover{
+    background-color: blue;
+
+}
+
+a:active{
+
+    background-color: green;
+}
